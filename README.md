@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/GauthierPoulain/GauthierPoulain/master/res/wave.gif" width="30px">
 
 [![42intra](https://shields.io/badge/intra-gapoulai-brightgreen?logoColor=white&logo=42&style=flat)](https://profile.intra.42.fr/users/gapoulai)
+[![location](https://shields.io/badge/location-lyon-brightgreen?logoColor=white&logo=google-maps&style=flat)](https://www.google.fr/maps/place/Lyon)
 ![discord](https://shields.io/badge/discord-gapoulai%231234-brightgreen?logoColor=white&logo=discord&style=flat)
-![location](https://shields.io/badge/location-lyon-brightgreen?logoColor=white&logo=google-maps&style=flat)
 
 ---
 
