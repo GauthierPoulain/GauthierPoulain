@@ -1,10 +1,8 @@
-# <img src="https://raw.githubusercontent.com/GauthierPoulain/GauthierPoulain/master/res/wave.gif" width="30px">
+[![42intra](https://shields.io/badge/gapoulai-black?logoColor=white&logo=42&style=for-the-badge)](https://profile.intra.42.fr/users/gapoulai)
+[![location](https://shields.io/badge/lyon-black?logoColor=white&logo=google-maps&style=for-the-badge)](https://www.google.fr/maps/place/Lyon)
+[![discord](https://shields.io/badge/gapoulai%231234-black?logoColor=white&logo=discord&style=for-the-badge)](https://discord.com/users/356080354030911489)
 
-[![42intra](https://shields.io/badge/intra-gapoulai-brightgreen?logoColor=white&logo=42&style=flat)](https://profile.intra.42.fr/users/gapoulai)
-[![location](https://shields.io/badge/location-lyon-brightgreen?logoColor=white&logo=google-maps&style=flat)](https://www.google.fr/maps/place/Lyon)
-![discord](https://shields.io/badge/discord-gapoulai%231234-brightgreen?logoColor=white&logo=discord&style=flat)
-
----
-
-[![gauthierpoulain's github stats](https://github-readme-stats.vercel.app/api?username=gauthierpoulain&theme=dark&count_private=true&hide_border=true&show_icons=true&layout=compact)](https://github.com/GauthierPoulain?tab=repositories)
-[![gauthierpoulain's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gauthierpoulain&theme=dark&hide_border=true&layout=compact)](https://github.com/GauthierPoulain?tab=repositories)
+<a href="https://github.com/GauthierPoulain">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gauthierpoulain&theme=dark&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=gauthierpoulain&theme=dark&hide_border=true&layout=compact">
+</a>
