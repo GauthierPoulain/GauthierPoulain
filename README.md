@@ -1,5 +1,5 @@
 <a href="https://github.com/gapoulai">
-  <img height="160em" src="https://raw.githubusercontent.com/gapoulai/gapoulai/master/res/dance.gif">
+  <img height="160em" src="https://raw.githubusercontent.com/gapoulai/gapoulai/main/res/dance.gif">
 </a>
 
 [![42intra](https://shields.io/badge/gapoulai-black?logoColor=white&logo=42&style=for-the-badge)](https://profile.intra.42.fr/users/gapoulai)
