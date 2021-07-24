@@ -10,5 +10,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gapoulai&theme=dark&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=gapoulai&theme=dark&hide_border=true&layout=compact">
 </a>
-
-<iframe src="http://whatthecommit.com/index.txt"></iframe>
