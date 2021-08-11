@@ -1,4 +1,7 @@
 <a href="https://github.com/gapoulai">
+  <img height="160em" src="https://raw.githubusercontent.com/gapoulai/gapoulai/main/res/amogsus.gif">
+</a>
+<a href="https://github.com/gapoulai">
   <img height="160em" src="https://raw.githubusercontent.com/gapoulai/gapoulai/main/res/dance.gif">
 </a>
 <br>
@@ -7,12 +10,6 @@
 [![location](https://shields.io/badge/lyon-black?logoColor=white&logo=google-maps&style=for-the-badge)](https://www.google.fr/maps/place/Lyon)
 [![discord](https://shields.io/badge/gapoulai%231234-black?logoColor=white&logo=discord&style=for-the-badge)](https://discord.com/users/356080354030911489)
 
-<a href="https://github.com/gapoulai">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gapoulai&theme=dark&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=gapoulai&theme=dark&hide_border=true&layout=compact">
-</a>
-<br>
+![github stats](https://github-readme-stats.vercel.app/api?username=gapoulai&theme=dark&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats)
 
-<a href="https://github.com/gapoulai">
-  <img height="160em" src="https://raw.githubusercontent.com/gapoulai/gapoulai/main/res/amogsus.gif">
-</a>
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gapoulai&theme=dark&hide_border=true&layout=compact)
