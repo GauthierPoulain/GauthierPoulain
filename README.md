@@ -1,9 +1,6 @@
 <a href="https://github.com/gapoulai">
   <img height="160em" src="https://raw.githubusercontent.com/gapoulai/gapoulai/main/res/amogsus.gif">
 </a>
-<a href="https://github.com/gapoulai">
-  <img height="160em" src="https://raw.githubusercontent.com/gapoulai/gapoulai/main/res/dance.gif">
-</a>
 <br>
 
 [![42intra](https://shields.io/badge/gapoulai-black?logoColor=white&logo=42&style=for-the-badge)](https://profile.intra.42.fr/users/gapoulai)
